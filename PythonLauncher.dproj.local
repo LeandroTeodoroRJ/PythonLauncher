@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/12 20:25:12.000.967,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/14 20:39:37.000.110,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/26 09:55:51.000.898,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/19 18:49:09.000.002,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/01 16:45:47.000.373,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/01 16:46:05.000.136,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/10 14:25:49.000.607,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/05 18:57:18.000.462,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/05 18:58:24.000.601,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\DADOS\Informatica\Info_projetos\Python_Laucher\Main.pas</Transaction>
+    <Transaction>2017/09/05 18:58:24.000.601,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\DADOS\Informatica\Info_projetos\Python_Laucher\Main.dfm</Transaction>
+    <Transaction>2017/09/05 18:58:40.000.453,C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\DADOS\Informatica\Info_projetos\Python_Laucher\PythonLaucher.dproj</Transaction>
+    <Transaction>2017/09/05 19:19:26.000.879,=C:\DADOS\Informatica\Info_projetos\Python_Laucher\Unit2.pas</Transaction>
+    <Transaction>2017/09/05 19:20:53.000.818,C:\DADOS\Informatica\Info_projetos\Python_Laucher\UnitAdd.pas=C:\DADOS\Informatica\Info_projetos\Python_Laucher\Unit2.pas</Transaction>
+    <Transaction>2017/09/05 19:20:53.000.818,C:\DADOS\Informatica\Info_projetos\Python_Laucher\UnitAdd.dfm=C:\DADOS\Informatica\Info_projetos\Python_Laucher\Unit2.dfm</Transaction>
+    <Transaction>2017/09/07 09:21:26.850,C:\DADOS\Informatica\Info_projetos\Python_Laucher\PythonLauncher.dproj=C:\DADOS\Informatica\Info_projetos\Python_Laucher\PythonLaucher.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
